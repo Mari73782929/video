@@ -1,4 +1,4 @@
-# Sustainable Smart City Assistant
+# SmartSDLC–AI-Enhanced software development lifcycle
 
 ## Project Documentation  
 [IBM_SDLC project documentation.pdf](https://drive.google.com/file/d/1smx06HddTNJ7RjynGCcGxzfoZ4oWsMk5/view?usp=drivesdk)
