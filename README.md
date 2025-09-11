@@ -1,4 +1,4 @@
-# SmartSDLC–AI-Enhanced software development lifcycle
+# SmartSDLC–AI-Enhanced software development lifecycle
 
 ## Project Documentation  
 [IBM_SDLC project documentation.pdf](https://drive.google.com/file/d/1smx06HddTNJ7RjynGCcGxzfoZ4oWsMk5/view?usp=drivesdk)
