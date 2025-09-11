@@ -1,7 +1,7 @@
 # Sustainable Smart City Assistant
 
 ## Project Documentation  
-[IBM_Sample Document.pdf](.IBM_Sample Document-1.docx_20250911_193314_0000.pdf)
+[IBM_Sample Document.pdf](video/IBM_Sample Document-1.docx_20250911_193314_0000.pdf)
 
 ##  Video  
 Watch the  video here:  
